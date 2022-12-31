@@ -1,8 +1,5 @@
 <div align="center">
-  <img
-    src="assets/Front-end.png"
-    alt="banner-Fronted"
-    aling="center" />
+<img src="assets/banner.png" alt="banner-Fronted" />
 </div>
 
 
