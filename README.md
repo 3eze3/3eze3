@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">
+  Hello, I'am a <code>Front-end Developer </code>
+</h1>
 
-<!--
-**3eze3/3eze3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
+  <summary>:heart: About me:</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently, I'm self-studying, focusing on creating custom projects and applications 🖤.
+- Focused on and learning JavaScript in depth.
+- Thinking and creating new ways to get things done. 
+- I like to get out of my comfort zone and experiment.
+</details>
+
+---
+
+And finally I want to share my projects and growth with people who are interested 🐰. 
