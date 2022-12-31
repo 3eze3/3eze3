@@ -1,9 +1,7 @@
 <div align="center">
-<img src="assets/banner.png" alt="banner-Fronted" />
+  <img src="assets/banner.png" alt="banner" />
 </div>
 
-
-<br/>
 
 <h1 align="center">
   Hello, I'am a <code>Front-end Developer </code>
