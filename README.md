@@ -8,6 +8,8 @@
 </h1>
 
 
+<a href="https://www.linkedin.com/in/ezequielcordova/" >Linkedin  :heart: <a/>
+
 <details>
   <summary>:heart: About me:</summary>
 
