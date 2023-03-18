@@ -1,13 +1,9 @@
-
-  <img src="assets/banner1.png" alt="banner" />
-
-<details>
-  <summary>:heart: About me:</summary>
-
+<img src="assets/banner1.png" alt="banner" />
+  
 ### Currently, I'm self-studying, focusing on creating custom projects and applications 🖤.
-- Focused on and learning JavaScript in depth.
-- Thinking and creating new ways to get things done. 
-- I like to get out of my comfort zone and experiment.
+Focused on and learning JavaScript in depth.
+Thinking and creating new ways to get things done. 
+I like to get out of my comfort zone and experiment.
 
 
 
