@@ -1,5 +1,7 @@
 <img src="assets/banner1.png" alt="banner" />
-  
+   
+<video src="assest/Website-Ceator.mp4"></video>
+   
 ### Currently, I'm self-studying, focusing on creating custom projects and applications 🖤.
 Focused on and learning JavaScript in depth.
 Thinking and creating new ways to get things done. 
