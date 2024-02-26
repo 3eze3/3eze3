@@ -3,10 +3,15 @@
 </p>
 
 <br>
-<div width:"50%">
-<p align="center">
-  As a future software developer, my passion for creating innovative and useful solutions drives me to keep learning and improving my skills. I want to make a difference in the world through technology and am excited to be part of an ever-evolving field.
-</p>
+
+<div align="center">
+  <p>
+    Welcome to my repository! Here I present projects intended to help me in my learning journey, with a special focus on understanding the complexities of development through hands-on exploration and iterative development.
+  </p>
+  <p>
+    This repository is not only for my personal growth; it is also designed to be a resource for others embarking on similar learning paths. 
+    Whether you are a beginner or an experienced developer looking to hone your skills, these projects offer valuable insights and learning opportunities.
+  </p>
 </div>
 
 <hr>
@@ -26,8 +31,8 @@
 
 ## Goals
 
-Now focus on learning Html Css.  
-- Create projects that I already have in mind.  
-- Expand my social circle. 
-- Develop myself in a more professional way in software development.  
-- Learn Js and implement them in my projects. 
+Now focusing on learning HTML and CSS.  
+- Creating projects that I already have in mind.  
+- Expanding my social circle. 
+- Developing myself in a more professional way in software development.  
+- Learning JavaScript and implementing it in my projects. 
