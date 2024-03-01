@@ -42,15 +42,6 @@
 
 <br>
 
-<img align="right" alt="GIF" src="assets/website-creator-animate.svg#gh-dark-mode-only" width="390px"/>
-<img align="right" alt="GIF" src="assets/website-creator-animate.svg#gh-light-mode-only" width="3900px"/>
-
-<h2 align="left">Goals</h2>
-<p align="left"> - Creating projects that I already have in mind. <br> - Expanding my social circle. . <br> 
-- Developing myself in a more professional way in software development.   <br> - Learning React/JavaScript and implementing it in my projects. </p>
-
-
-
 
 
 
