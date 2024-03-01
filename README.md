@@ -22,11 +22,11 @@
 
 
     
-<h2 align="left">👩‍💻  About Me</h2>
-<p align="left"> 🔭 I am currently creating customized projects (not a pokeApi) <br> 📚 Focused on and learning JavaScript in depth. <br> ⚡ I am currently learning React. <br> 🥼 Thinking and creating new ways to get things done. </p>
+<h2 align="center">👩‍💻  About Me</h2>
+<p align="center"> 🔭 I am currently creating customized projects (not a pokeApi) <br> 📚 Focused on and learning JavaScript in depth. <br> ⚡ I am currently learning React. <br> 🥼 Thinking and creating new ways to get things done. </p>
 
-<h2>My Skill Set</h2> 
-<table><tr><td>
+<h2 align="center" >My Skill Set</h2> 
+<table align="center" ><tr><td>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -45,11 +45,9 @@
 <img align="right" alt="GIF" src="assets/website-creator-animate.svg#gh-dark-mode-only" width="390px"/>
 <img align="right" alt="GIF" src="assets/website-creator-animate.svg#gh-light-mode-only" width="3900px"/>
 
-## Goals
-- Creating projects that I already have in mind.  
-- Expanding my social circle. 
-- Developing myself in a more professional way in software development.  
-- Learning React/JavaScript and implementing it in my projects.
+<h2 align="left">Goals</h2>
+<p align="left"> - Creating projects that I already have in mind. <br> - Expanding my social circle. . <br> 
+- Developing myself in a more professional way in software development.   <br> - Learning React/JavaScript and implementing it in my projects. </p>
 
 
 
