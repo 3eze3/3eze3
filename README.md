@@ -1,42 +1,59 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ey+There!+🕶;+I'm+Ezequiel+Cordova!;" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=46&duration=3000&pause=1000&color=BBFBF7&center=true&vCenter=true&random=false&width=641&height=77&lines=EY+THERE+!+👀;I+'m+Front+End+Developer🖥" alt="Typing SVG" /></a>
 </h1>
 
-<p align="center">
-  <img width="80%" src="assets/banner1.png">
-</p>
-
-<br>
-
 <div align="center">
-  <p>
-    Welcome to my repository! Here I present projects intended to help me in my learning journey, with a special focus on understanding the complexities of development through hands-on exploration and iterative development.
-  </p>
-  <p>
-    This repository is not only for my personal growth; it is also designed to be a resource for others embarking on similar learning paths. 
-    Whether you are a beginner or an experienced developer looking to hone your skills, these projects offer valuable insights and learning opportunities.
-  </p>
+    
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequielcordova/)
 </div>
 
-<hr>
+<h3 align="center">I like to get out of my comfort zone and experiment🎇 </h3>
 
-<img align="right" alt="GIF" src="assets/website-creator-animate.svg#gh-dark-mode-only" width="460px"/>
-<img align="right" alt="GIF" src="assets/website-creator-animate.svg#gh-light-mode-only" width="460px"/>
-
-<br><br>
-
-## Currently
-
-- I'm self-studying, focusing on creating custom projects and applications 🖤.
-- Focused on and learning JavaScript in depth.
-- Thinking and creating new ways to get things done. 
-- I like to get out of my comfort zone and experiment.
 <br>
 
-## Goals
+  <p align='center'>
+    This repository is not only for my personal growth, it is also designed to be a resource <br>  for others embarking on similar learning paths. <br> 
+    Whether you are a beginner or an experienced developer looking to hone your skills, <br> these projects offer valuable insights and learning opportunities.
+  </p>
 
-Now focusing on learning HTML and CSS.  
+
+
+
+
+
+    
+<h2 align="left">👩‍💻  About Me</h2>
+<p align="left"> 🔭 I am currently creating customized projects (not a pokeApi) <br> 📚 Focused on and learning JavaScript in depth. <br> ⚡ I am currently learning React. <br> 🥼 Thinking and creating new ways to get things done. </p>
+
+<h2>My Skill Set</h2> 
+<table><tr><td>
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+</div>
+</table>
+
+
+<br>
+
+<img align="right" alt="GIF" src="assets/website-creator-animate.svg#gh-dark-mode-only" width="390px"/>
+<img align="right" alt="GIF" src="assets/website-creator-animate.svg#gh-light-mode-only" width="3900px"/>
+
+## Goals
 - Creating projects that I already have in mind.  
 - Expanding my social circle. 
 - Developing myself in a more professional way in software development.  
-- Learning JavaScript and implementing it in my projects. 
+- Learning React/JavaScript and implementing it in my projects.
+
+
+
+
+
+
+
