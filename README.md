@@ -12,9 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3eze3&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=FFFFFF&bg_color=000000" alt="Top Languages" height="165">
 </div>
 
-<div align="center" style="margin-top: 20px">
-  <img src="https://raw.githubusercontent.com/3eze3/3eze3/main/matrix-divider.svg" alt="Matrix divider" width="100%">
-</div>
 
 ## 🛠️ Technical Expertise
 
@@ -28,9 +25,6 @@
 
 </div>
 
-<div align="center" style="margin-top: 20px">
-  <img src="https://raw.githubusercontent.com/3eze3/3eze3/main/matrix-divider.svg" alt="Matrix divider" width="100%">
-</div>
 
 ## 📬 Let's Connect
 
@@ -40,18 +34,4 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin.svg&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Frontend Mentor](https://custom-icon-badges.demolab.com/badge/Frontend_Mentor-00FF41?style=for-the-badge&logo=code.svg&logoColor=black)](https://www.frontendmentor.io/profile/)
 
-</div>
-
-<div align="center">
-  <pre style="color: #00FF41; background-color: #000; padding: 15px; border-radius: 5px; font-family: monospace;">
-  <em>// Transforming complex challenges into elegant digital solutions</em>
-  while (problem) {
-      solution = innovate(problem);
-      implement(solution);
-  }
-  </pre>
-</div>
-
-<div align="center" style="margin-top: 20px">
-  <img src="https://raw.githubusercontent.com/3eze3/3eze3/main/matrix-divider.svg" alt="Matrix divider" width="100%">
 </div>
