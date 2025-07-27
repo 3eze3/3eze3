@@ -1,20 +1,19 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=38A3A5&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Digital+Solutions+Partner;Clean+Code+Advocate" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Digital+Solutions+Partner;Clean+Code+Advocate" alt="Animated typing text" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-38A3A5?style=flat&logo=github" alt="Focus Badge">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-38A3A5?style=flat" alt="Status Badge">
+  <img src="https://img.shields.io/badge/Theme-Matrix-00FF41?style=flat&logo=matrix&logoColor=black" alt="Matrix Theme">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-00FF41?style=flat&logo=github" alt="Focus Badge">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-00FF41?style=flat" alt="Status Badge">
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3eze3&layout=compact&theme=transparent&hide_border=true&title_color=38A3A5&text_color=333" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3eze3&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=FFFFFF&bg_color=000000" alt="Top Languages" height="165">
 </div>
 
-<div align="center" style="margin-top: 50px">
-  
-![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-
+<div align="center" style="margin-top: 20px">
+  <img src="https://raw.githubusercontent.com/3eze3/3eze3/main/matrix-divider.svg" alt="Matrix divider" width="100%">
 </div>
 
 ## 🛠️ Technical Expertise
@@ -28,33 +27,31 @@
 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> |  |  |
 
 </div>
-<div align="center" style="margin-top: 50px">
-  
-![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
+<div align="center" style="margin-top: 20px">
+  <img src="https://raw.githubusercontent.com/3eze3/3eze3/main/matrix-divider.svg" alt="Matrix divider" width="100%">
 </div>
 
 ## 📬 Let's Connect
 
-<div align="center" style="margin-top: 30px">
-
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/View_Portfolio-38A3A5?style=for-the-badge&logo=link.svg&logoColor=white)](https://yourportfolio.com)
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin: 30px 0">
+  
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/View_Portfolio-00FF41?style=for-the-badge&logo=terminal.svg&logoColor=black)](https://yourportfolio.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin.svg&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Frontend Mentor](https://custom-icon-badges.demolab.com/badge/Frontend_Mentor-00FF41?style=for-the-badge&logo=code.svg&logoColor=black)](https://www.frontendmentor.io/profile/)
 
+</div>
+
+<div align="center">
+  <pre style="color: #00FF41; background-color: #000; padding: 15px; border-radius: 5px; font-family: monospace;">
+  <em>// Transforming complex challenges into elegant digital solutions</em>
+  while (problem) {
+      solution = innovate(problem);
+      implement(solution);
+  }
+  </pre>
 </div>
 
 <div align="center" style="margin-top: 20px">
-  
-[![Frontend Mentor](https://custom-icon-badges.demolab.com/badge/Frontend_Mentor-38A3A5?style=for-the-badge&logo=frontendmentor.svg&logoColor=white)](https://www.frontendmentor.io/profile/)
-
-</div>
-
-<p align="center" style="margin-top: 40px; font-size: 1.2rem">
-  <em>"Transforming complex challenges into elegant digital solutions"</em>
-</p>
-
-<div align="center" style="margin-top: 50px">
-  
-![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-
+  <img src="https://raw.githubusercontent.com/3eze3/3eze3/main/matrix-divider.svg" alt="Matrix divider" width="100%">
 </div>
