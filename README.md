@@ -28,8 +28,8 @@
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin: 30px 0">
   
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/View_Portfolio-454545?style=for-the-badge&logo=terminal.svg&logoColor=black)](https://yourportfolio.com)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/View_Portfolio-4E633C?style=for-the-badge&logo=terminal.svg&logoColor=black)](https://yourportfolio.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin.svg&logoColor=white)](https://www.linkedin.com/in/ezequiel-cordova-89a449377/)
-[![Frontend Mentor](https://custom-icon-badges.demolab.com/badge/Frontend_Mentor-454545?style=for-the-badge&logo=code.svg&logoColor=black)](https://www.frontendmentor.io/profile/3eze3)
+[![Frontend Mentor](https://custom-icon-badges.demolab.com/badge/Frontend_Mentor-4E633C?style=for-the-badge&logo=code.svg&logoColor=black)](https://www.frontendmentor.io/profile/3eze3)
 
 </div>
