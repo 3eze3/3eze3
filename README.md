@@ -9,10 +9,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3eze3&layout=compact&theme=transparent&hide_border=true&title_color=38A3A5&text_color=333" alt="Top Languages" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=3eze3&show_icons=true&theme=transparent&hide_border=true&title_color=38A3A5&text_color=333&icon_color=38A3A5&hide=issues" alt="GitHub Stats" height="165">
 </div>
 
----
+<div align="center" style="margin-top: 50px">
+  
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
 
 ## 🛠️ Technical Expertise
 
@@ -25,36 +28,11 @@
 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"> |  |  |
 
 </div>
-
----
-
-## 🌱 My GitHub Philosophy
-
-<div align="center" style="margin: 40px 0">
+<div align="center" style="margin-top: 50px">
   
-### 🧠 Knowledge Laboratory
-This space serves as my **digital workshop** where I:
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-```mermaid
-mindmap
-  root((GitHub))
-    Practice Hub
-      65+ Projects
-      Frontend Challenges
-      Algorithm Solutions
-    Experiment Zone
-      New Libraries
-      Architecture Patterns
-      Performance Testing
-    Knowledge Base
-      Code Snippets
-      Learning Resources
-      Best Practices
-    Open Source
-      Community Tools
-      Bug Fixes
-      Documentation
-```
+</div>
 
 ## 📬 Let's Connect
 
