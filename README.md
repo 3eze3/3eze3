@@ -39,14 +39,13 @@
 <div align="center" style="margin-top: 30px">
 
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/View_Portfolio-38A3A5?style=for-the-badge&logo=link.svg&logoColor=white)](https://yourportfolio.com)
-[![Email](https://custom-icon-badges.demolab.com/badge/Send_Email-D14836?style=for-the-badge&logo=mail.svg&logoColor=white)](mailto:professional@contact.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin.svg&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 </div>
 
 <div align="center" style="margin-top: 20px">
   
-[![Frontend Mentor](https://custom-icon-badges.demolab.com/badge/Frontend_Mentor-38A3A5?style=for-the-badge&logo=frontendmentor.svg&logoColor=white)](https://www.frontendmentor.io/profile/yourprofile)
+[![Frontend Mentor](https://custom-icon-badges.demolab.com/badge/Frontend_Mentor-38A3A5?style=for-the-badge&logo=frontendmentor.svg&logoColor=white)](https://www.frontendmentor.io/profile/)
 
 </div>
 
