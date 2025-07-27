@@ -1,17 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Digital+Solutions+Partner;Clean+Code+Advocate" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=4E633C&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Digital+Solutions+Partner;Clean+Code+Advocate" alt="Animated typing text" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Matrix-00FF41?style=flat&logo=matrix&logoColor=black" alt="Matrix Theme">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-00FF41?style=flat&logo=github" alt="Focus Badge">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-00FF41?style=flat" alt="Status Badge">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-4E633C?style=flat&logo=github" alt="Focus Badge">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-4E633C?style=flat" alt="Status Badge">
 </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3eze3&layout=compact&theme=dark&hide_border=true&title_color=00FF41&text_color=FFFFFF&bg_color=000000" alt="Top Languages" height="165">
 </div>
-
 
 ## 🛠️ Technical Expertise
 
