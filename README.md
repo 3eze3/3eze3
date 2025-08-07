@@ -29,7 +29,6 @@
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin: 30px 0">
 
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/View_Portfolio-4E633C?style=for-the-badge&logo=terminal.svg&logoColor=black)](https://yourportfolio.com)
-email.catnip885@passinbox.com
 [![Frontend Mentor](https://custom-icon-badges.demolab.com/badge/Frontend_Mentor-4E633C?style=for-the-badge&logo=code.svg&logoColor=black)](https://www.frontendmentor.io/profile/3eze3)
 
 </div>
