@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=2800&pause=1000&color=4E633C&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Digital+Solutions+Partner;Clean+Code+Advocate" alt="Animated typing text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=2800&pause=1000&color=4E633C&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Clean+Code+Advocate" alt="Animated typing text" />
 </h1>
 
 <p align="center">
